@@ -3,5 +3,6 @@ Presentations using [remark](https://github.com/gnab/remark) ([usage demo](http:
 Current presentations:
 - State of Cross Platform Development: cross-platform-dev/slide.html
 - Languages and Ecosystems: languages-ecosystems/slide.html
+- Data Visualization: data-visualization/slide.html
 
 [Markdown basics](https://help.github.com/articles/markdown-basics/)
