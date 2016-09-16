@@ -15,6 +15,16 @@ li{
   bottom: 45px;
   right: 65px;
 }
+.lower-left{
+  position: absolute !important;
+  bottom: 45px;
+  left: 20px;
+}
+.top{
+  position: absolute !important;
+  top: 45px;
+  left: 45px;
+}
 .white{
   color: #fff;
 }
@@ -27,6 +37,9 @@ li{
 .xl, .xl li{
   font-size: 60px;
   padding: 10px;
+}
+.lgr, .lgr li{
+  font-size: 40px;
 }
 .lg, .lg li{
   font-size: 34px;
